@@ -1,7 +1,4 @@
 # ProjectAkhir-PerancanganWeb-DesainGrafis-BisDig
-
-# Menampilkan Web Project dari GitHub di Localhost dengan XAMPP
-
 Berikut adalah langkah-langkah menampilkan web project yang diunduh dari GitHub (folder: `perancangan-web`) ke `localhost` menggunakan XAMPP:
 
 ## 1. Siapkan XAMPP
